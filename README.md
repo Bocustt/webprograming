@@ -1,7 +1,7 @@
 # webprograming
 Tugas Mata Kulah Web Programing
 
-PENGERTIAN PEMROGRAMAN WEB
+PENGERTIAN WEB PROGRAMMING
 
 Pemrograman web diambil dari 2 suku kata yaitu pemrograman dan web. Pemrograman yang dalam bahasa English adalah programming dan diartikan proses, cara, perbuatan program.
 
